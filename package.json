@@ -1,0 +1,12 @@
+{
+  "name": "angularjs-dbm7ea",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@uirouter/angularjs": "^1.0.28",
+    "angular": "^1.8.1",
+    "bootstrap": "^4.5.2",
+    "jquery": "1.9.1 - 3",
+    "popper.js": "^1.16.1"
+  }
+}
